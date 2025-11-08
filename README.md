@@ -3,16 +3,16 @@
 A beginner-friendly command-line calculator written in Python.  
 This project performs four basic arithmetic operations:
 
-- ✅ Addition  
-- ✅ Subtraction  
-- ✅ Multiplication  
-- ✅ Division (with zero-division protection)
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division (with zero-division protection)
 
 This is a simple project ideal for beginners learning Python, user input handling, and basic control flow.
 
 ---
 
-## 📌 Features
+## Features
 
 - Input two numbers from the user  
 - Choose an operation (1–4)  
@@ -22,9 +22,8 @@ This is a simple project ideal for beginners learning Python, user input handlin
 
 ---
 
-## 🧾 Usage
+##  Usage
 
 Run the script using Python:
 
-```bash
-python calculator.py
+
